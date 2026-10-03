@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of liplum/flarum-jwt-auth.** Not for installation: use [Packagist](https://packagist.org/packages/liplum/flarum-jwt-auth) or the [upstream repository](https://github.com/liplum/flarum-jwt-auth).
 
-**0** versions archived · Latest: [`0.3.1`](https://github.com/flarchive/liplum-flarum-jwt-auth/tree/archive/v0.3.1) · License: `MIT` · Flarum: `^1.2`
+**4** versions archived · Latest: [`0.3.1`](https://github.com/flarchive/liplum-flarum-jwt-auth/tree/archive/v0.3.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2024-12-04 | `^1.2` | [Browse](https://github.com/flarchive/liplum-flarum-jwt-auth/tree/archive/v0.1) |
+| `0.2` | 2024-12-06 | `^1.2` | [Browse](https://github.com/flarchive/liplum-flarum-jwt-auth/tree/archive/v0.2) |
+| `0.3` | 2024-12-06 | `^1.2` | [Browse](https://github.com/flarchive/liplum-flarum-jwt-auth/tree/archive/v0.3) |
+| `0.3.1` | 2024-12-07 | `^1.2` | [Browse](https://github.com/flarchive/liplum-flarum-jwt-auth/tree/archive/v0.3.1) |
 
 Catalog entry: [packages/liplum-flarum-jwt-auth.json](https://github.com/flarchive/archive-index/blob/main/packages/liplum-flarum-jwt-auth.json)
 
